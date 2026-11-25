@@ -1,0 +1,29 @@
+**All Resume Analysis – 2026-11-24**
+
+| Candidate | Name | Technical Skills | Non‑Technical Skills | Work Experience (Internships) | Projects |
+|-----------|------|------------------|----------------------|--------------------------------|----------|
+| 1 | **Aarav Mehta** | • Java, Spring Boot, Spring MVC, Hibernate <br>• REST APIs, JDBC, JSON, HTTP <br>• SQL (MySQL, PostgreSQL) <br>• Git, GitHub, Maven, IntelliJ IDEA, Postman <br>• Core OOP concepts (Collections, Exception Handling, SOLID) | • *None explicitly listed* | **Backend Development Intern – BlueOak Software** (Jan 2026 – Apr 2026) – Built CRUD endpoints, SQL integration, validation, error handling | • **Inventory REST API** – Endpoints for products, categories, stock updates; DTOs, JPA, Postman collections <br>• **Library Management System** – Console prototype with member registration, book search, lending workflows |
+| 2 | **Isha Reddy** | • Python, Pandas, NumPy <br>• SQL <br>• Power BI, Matplotlib, Seaborn <br>• Excel <br>• MySQL | • Problem‑solving <br>• Written communication <br>• Presentation <br>• Collaboration | **Data Analyst Intern – Northstar Retail Labs** (Feb 2026 – May 2026) – Cleaned 18,000+ sales records, created dashboards, prepared weekly summaries | • **Retail Sales Insights** – Trend analysis, missing‑value handling, SQL aggregation, Power BI dashboard <br>• **Student Performance Explorer** – Analyzed marks data, attendance vs outcomes, documented assumptions |
+| 3 | **Kabir Shah** | • HTML5, CSS3, JavaScript, TypeScript <br>• React, Vite <br>• Tailwind CSS, Flexbox, Grid <br>• Jest basics, React Testing Library basics <br>• Git, GitHub, Chrome DevTools | • Teamwork <br>• Adaptability <br>• Time management <br>• Attention to detail | **Web Development Trainee – PixelPath Studio** (Aug 2025 – Dec 2025) – Wireframe conversion, layout fixes, designer collaboration | • **Event Discovery Interface** – Searchable cards, category filters, React hooks <br>• **Personal Portfolio** – Accessible pages, contact form validation, mobile navigation |
+| 4 | **Nandini Rao** | • Manual/Functional/Regression/Smoke/Exploratory testing <br>• Selenium WebDriver, Java, TestNG <br>• Postman, REST API validation, JSON <br>• Jira, SQL basics, Git | • Analytical thinking <br>• Patience <br>• Communication <br>• Ownership | **QA Intern – Verity Apps Lab** (Mar 2026 – Jun 2026) – Test case design, defect reporting, API checks, SQL validation | • **E‑commerce Test Suite** – Functional/regression cases, Selenium automation <br>• **Bookstore API Validation** – Postman checks, negative‑scenario testing |
+| 5 | **Omkar Patil** | • AWS EC2, S3, IAM <br>• Docker, GitHub Actions, CI/CD <br>• Linux, Bash, Windows <br>• DNS, HTTP/HTTPS, TCP/IP <br>• CloudWatch | • Documentation <br>• Troubleshooting <br>• Learning agility <br>• Teamwork | **Cloud Operations Trainee – CloudSpring Learning Lab** (Jan 2026 – Apr 2026) – EC2 provisioning, Dockerization, GitHub Actions workflow | • **Containerized Notes Service** – Docker image, local build/run docs <br>• **Static Website Deployment** – S3 hosting, access configuration, deployment steps |
+
+---
+
+### Comparative Summary
+
+| Category | Aarav | Isha | Kabir | Nandini | Omkar |
+|----------|-------|------|-------|---------|-------|
+| **Primary Domain** | Backend Java | Data Analytics | Frontend Web | QA Automation | Cloud/DevOps |
+| **Strengths** | Clean OOP, solid Spring ecosystem, SQL proficiency | Strong data wrangling + BI, clear presentation | Responsive UI, component reuse, accessibility | Manual & automation testing, API validation, Jira workflow | Cloud provisioning, containerization, CI/CD pipelines |
+| **Breadth of Tech Stack** | Full Java stack + database + tools | Python data stack + BI tools + SQL | HTML/CSS/JS + React + build tools | Testing tools across manual, Selenium, Postman | Cloud services + container tech + OS fundamentals |
+| **Soft‑skills Highlighted** | None explicitly | Problem solving, communication, collaboration | Teamwork, adaptability, time management, detail orientation | Analytical thinking, patience, communication, ownership | Documentation, troubleshooting, learning agility, teamwork |
+| **Experience Span** | 4‑month intern | 4‑month intern | 4‑month trainee | 4‑month intern | 4‑month trainee |
+| **Project Focus** | Functional API services & simple console app | Data‑driven insights & dashboards | Interactive UI components & portfolio | Test suites & API validation | Dockerized app & static site hosting |
+
+**Key takeaways**
+
+1. **Domain Expertise** – Each candidate excels in a distinct area: backend, analytics, frontend, QA, and cloud.  
+2. **Technical Breadth** – All possess a solid foundation in their chosen domain plus ancillary tools (e.g., Aarav’s Maven & Postman, Isha’s Power BI, Kabir’s Vite/Tailwind).  
+3. **Soft‑skills Coverage** – Only Isha, Kabir, Nandini, and Omkar mention soft‑skills; Aarav’s resume is technically dense but silent on interpersonal qualities.  
+4. **Project Diversity** – Projects are well‑aligned with the claimed skills and provide real‑world examples of

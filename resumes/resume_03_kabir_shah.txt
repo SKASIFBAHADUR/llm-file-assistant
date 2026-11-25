@@ -1,0 +1,33 @@
+KABIR SHAH
+Frontend Developer
+kabir.shah@example.invalid | +91-90000-10003 | Pune, India
+
+PROFILE
+Frontend developer with hands-on project work creating responsive web interfaces. Focuses on accessibility, component reuse, and clear user interactions.
+
+SKILLS
+- Web: HTML5, CSS3, JavaScript, TypeScript
+- Frameworks: React, Vite
+- Styling: Tailwind CSS, CSS Flexbox, CSS Grid
+- Testing and tools: Jest basics, React Testing Library basics, Git, GitHub, Chrome DevTools
+- Soft skills: Teamwork, adaptability, time management, attention to detail
+
+EXPERIENCE
+Web Development Trainee | PixelPath Studio (fictional) | Aug 2025 – Dec 2025
+  * Converted wireframes into responsive React components.
+  * Fixed layout and browser compatibility issues using DevTools.
+  * Collaborated with a designer to refine navigation and form interactions.
+
+PROJECTS
+Event Discovery Interface
+  * Built searchable event cards with category filters and responsive layouts.
+  * Managed UI state with React hooks.
+Personal Portfolio
+  * Created accessible project pages and contact form validation.
+  * Improved mobile navigation and page structure.
+
+EDUCATION
+BCA | Western Valley University (fictional) | 2025
+
+CERTIFICATIONS
+Responsive Web Design (fictional)
